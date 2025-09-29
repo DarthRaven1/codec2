@@ -1,14 +1,6 @@
 version = 1
 
 [[analyzers]]
-  name = "SCA"
-  enabled = true
-
-[[analyzers]]
-  name = "secret-scanner"
-  enabled = true
-
-[[analyzers]]
 name = "python"
 
   [analyzers.meta]
